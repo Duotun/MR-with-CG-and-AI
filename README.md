@@ -3,7 +3,7 @@
 
 This repository is maintained as collections of applications, technology, demos in virtual reality(VR) within the era of computer graphcis(CG) and artificial intelligence(AI) from the perspective of HCI.
 
-As our focus is to research into human-centric VR, there is one definitive guidebook named as ["Human-Computer Interaction: An Empirical Research Perspective"](https://www.amazon.com/Human-Computer-Interaction-Empirical-Research-Perspective/dp/0124058655) and we should review regularly to build delibrate user study in VR.
+As our focus is to research into human-centric VR, there is one definitive guidebook named as ["Human-Computer Interaction: An Empirical Research Perspective"](https://www.amazon.com/Human-Computer-Interaction-Empirical-Research-Perspective/dp/0124058655) that we should review regularly to build delibrate user study in VR.
 
 - [:fish\_cake:Top Conferences](#fish_caketop-conferences)
 - [:moon\_cake: Sketch in VR](#moon_cake-sketch-in-vr)
