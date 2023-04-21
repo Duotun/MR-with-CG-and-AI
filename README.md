@@ -22,6 +22,7 @@ As our focus is to research into human-centric VR, there is one definitive guide
 - [UIST](https://uist.acm.org/2023/)
 - [SIGGRAPH](https://s2023.siggraph.org/)
 - [SIGGRAPH ASIA](https://asia.siggraph.org/2023/)
+- [ASEETS](https://assets23.sigaccess.org/)
 - [IEEE VIS](https://ieeevis.org/year/2023/welcome)
   
 
@@ -40,4 +41,5 @@ As our focus is to research into human-centric VR, there is one definitive guide
 ---
 # :beer: Cool Demos & Technology
 
+- [Hekky PBR](https://docs.hyblocker.dev/en/shaders/hekky-pbr/what-is-hekky-pbr/), a physically based shader with a focus on [VRChat](https://hello.vrchat.com/)
 
