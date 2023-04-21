@@ -38,6 +38,8 @@ As our focus is to research into human-centric VR, there is one definitive guide
 ---
 # :church: Affective Computing in VR
 
+- [The Exploration and Evaluation of Generating Affective 360∘ Panoramic VR Environments Through Neural Style Transfer](https://arxiv.org/abs/2303.13535), Li et Al., IEEE VR 2023 Poster
+
 ---
 # :beer: Cool Demos & Technology
 
