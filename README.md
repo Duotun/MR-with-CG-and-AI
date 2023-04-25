@@ -5,6 +5,8 @@ This repository is maintained as collections of applications, technology, demos 
 
 As our focus is to research into human-centric VR, there is one definitive guidebook named as ["Human-Computer Interaction: An Empirical Research Perspective"](https://www.amazon.com/Human-Computer-Interaction-Empirical-Research-Perspective/dp/0124058655) that we should review regularly to build deliberate user study in VR.
 
+There is also a trending that we may pay attention to: between-subject user study becomes more preferred than in-subject user study, especially talking with design principles, system effectiveness, and group behaviors.  
+
 - [:fish\_cake:Top Conferences](#fish_caketop-conferences)
 - [:moon\_cake: Sketch in VR](#moon_cake-sketch-in-vr)
 - [:compass: Interactive Design in VR](#compass-interactive-design-in-vr)
