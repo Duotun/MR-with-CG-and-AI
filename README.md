@@ -31,26 +31,30 @@ There is also a trending that we may pay attention to: between-subject user stud
 
 ---
 # :moon_cake: Sketch in MR
-An excellent collection of sketch applications could be found in this [github repository](https://github.com/MarkMoHR/Awesome-Sketch-Based-Applications).
+An excellent collection of sketch applications could be found in this [github repository](https://github.com/MarkMoHR/Awesome-Sketch-Based-Applications). I would also highlight important publications from my perspective.
+
+- [Experimental Evaluation of Sketching on Surfaces in VR](https://dl.acm.org/doi/10.1145/3025453.3025474), Arora et al., CHI 2017
 
 
 
 ---
 # :compass: Interactive Tasks in MR
-Also consider remote collaborations
+To provide immersive feelings and interaction conveniences in MR, lots of research focus on interactive design tasks including single-view work pipelines and remote collaborations with MR technology.
 
-
+- []
 
 ---
 # :world_map: Multi-Modal in MR
 
 ---
 # :church: Affective Computing in MR
+In this part, we would like to explore excellent research in performing user study on how MR technolocy will help to build a better system to understand human beings' affections, perception and phychological activities in various context. Moreover, with MR technology's advancements, reseachers are working on developing innovative systems to provide more inspirations, more engagements, more accessibility to people in need.
 
 - [The Exploration and Evaluation of Generating Affective 360∘ Panoramic VR Environments Through Neural Style Transfer](https://arxiv.org/abs/2303.13535), Li et Al., IEEE VR 2023 Poster
 
 ---
 # :beer: Cool Demos & Technology
+we list multiple implementations, plugins, tools and libraries in MR technology for the purporse of rapid learning and practice.
 
 - [Hekky PBR](https://docs.hyblocker.dev/en/shaders/hekky-pbr/what-is-hekky-pbr/), a physically based shader with a focus on [VRChat](https://hello.vrchat.com/)
 
