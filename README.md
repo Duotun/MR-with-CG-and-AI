@@ -31,6 +31,9 @@ There is also a trending that we may pay attention to: between-subject user stud
 
 ---
 # :moon_cake: Sketch in VR
+An excellent collection of sketch applications could be found in this [github repository](https://github.com/MarkMoHR/Awesome-Sketch-Based-Applications).
+
+
 
 ---
 # :compass: Interactive Design in VR
