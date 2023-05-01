@@ -35,16 +35,20 @@ An excellent collection of sketch applications could be found in this [github re
 
 - [Experimental Evaluation of Sketching on Surfaces in VR](https://dl.acm.org/doi/10.1145/3025453.3025474), Arora et al., CHI 2017
 
+- [Warpy: Contextual and Multi-view Indirect 3D Curve Sketching in Augmented Reality](http://rawanmg.com/research/warpy.html), Alghofaili et el., IEEE VR 2023
 
 
 ---
-# :compass: Interactive Tasks in MR
+# :compass: Interaction & Display in MR
 To provide immersive feelings and interaction conveniences in MR, lots of research focus on interactive design tasks including single-view work pipelines and remote collaborations with MR technology.
 
-- []
+- [Toward Intuitive Acquisition of Fully Occluded VR Objects Through Direct Grab From a Disocclusion Mini-map](https://www.eecs.ucf.edu/~jjl/pubs/VR2023-mykola.pdf), Maslych et al., IEEE VR 2023
+
+- [AR Interfaces for Disocclusion--A Comparative Study], Liao et al., IEEE VR 2023
 
 ---
 # :world_map: Multi-Modal in MR
+
 
 ---
 # :church: Affective Computing in MR
