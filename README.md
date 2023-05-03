@@ -63,7 +63,9 @@ In this part, we would like to explore excellent research in performing user stu
 - [The Exploration and Evaluation of Generating Affective 360∘ Panoramic VR Environments Through Neural Style Transfer](https://arxiv.org/abs/2303.13535), Li et Al., IEEE VR 2023 Poster
 
 - [Measuring Interpersonal Trust towards Virtual Humans with a Virtual Maze Paradigm](https://ieeexplore.ieee.org/document/10049655), Lin et al., IEEE VR 2023
-- [Gravity]
+
+- [Earthquake Safety Training through Virtual Drills](https://dl.acm.org/doi/10.1109/TVCG.2017.2656958), Li et al., IEEE VR 2017
+
 ---
 # :beer: Cool Demos & Technology
 we list multiple implementations, plugins, tools and libraries in MR technology for the purporse of rapid learning and practice.
