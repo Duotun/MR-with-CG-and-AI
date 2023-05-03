@@ -35,7 +35,7 @@ An excellent collection of sketch applications could be found in this [github re
 
 - [Experimental Evaluation of Sketching on Surfaces in VR](https://dl.acm.org/doi/10.1145/3025453.3025474), Arora et al., CHI 2017
 
-- [Warpy: Contextual and Multi-view Indirect 3D Curve Sketching in Augmented Reality](http://rawanmg.com/research/warpy.html), Alghofaili et el., IEEE VR 2023
+- [Warpy: Contextual and Multi-view Indirect 3D Curve Sketching in Augmented Reality](http://rawanmg.com/research/warpy.html), Alghofaili et el., IEEE VR 2023 :star:
 
 
 ---
@@ -44,11 +44,17 @@ To provide immersive feelings and interaction conveniences in MR, lots of resear
 
 - [Toward Intuitive Acquisition of Fully Occluded VR Objects Through Direct Grab From a Disocclusion Mini-map](https://www.eecs.ucf.edu/~jjl/pubs/VR2023-mykola.pdf), Maslych et al., IEEE VR 2023
 
-- [AR Interfaces for Disocclusion--A Comparative Study], Liao et al., IEEE VR 2023
-
 ---
 # :world_map: Multi-Modal in MR
+To improve immersive feelings in MR settings, we aim to focus on providing and testing the effect of multi-modal experiences such as physically-based sound generations, realistic haptic feedback, sense of pain, and even olfaction.
 
+- [Tapping with a Handheld Stick in VR: Redirection Detection Thresholds for Passive Haptic Feedback](https://www.cs.purdue.edu/cgvlab/www/team/voicu-s-popescu/), Zhou et al., IEEE VR 2022
+
+- [Reality Skins: Creating Immersive and Tactile Virtual Environments](https://ieeexplore.ieee.org/document/7781774), Shapira et al., ISMAR 2016 :star:
+
+- [Annexing Reality: Enabling Opportunistic Use of Everyday Objects as Tangible Proxies in Augmented Reality](https://dl.acm.org/doi/10.1145/2858036.2858134), Hettiarachchi et al., CHI 2016
+
+- [DreamWalker: Substituting Real-World Walking Experiences with a Virtual Reality](https://www.christianholz.net/2019-uist19-yang_holz_ofek_wilson-DreamWalker-Substituting_Real-World_Walking_Experiences_with_a_Virtual_Reality.pdf), Yang et al., UIST 2019
 
 ---
 # :church: Affective Computing in MR
@@ -56,9 +62,36 @@ In this part, we would like to explore excellent research in performing user stu
 
 - [The Exploration and Evaluation of Generating Affective 360∘ Panoramic VR Environments Through Neural Style Transfer](https://arxiv.org/abs/2303.13535), Li et Al., IEEE VR 2023 Poster
 
+- [Measuring Interpersonal Trust towards Virtual Humans with a Virtual Maze Paradigm](https://ieeexplore.ieee.org/document/10049655), Lin et al., IEEE VR 2023
+- [Gravity]
 ---
 # :beer: Cool Demos & Technology
 we list multiple implementations, plugins, tools and libraries in MR technology for the purporse of rapid learning and practice.
 
-- [Hekky PBR](https://docs.hyblocker.dev/en/shaders/hekky-pbr/what-is-hekky-pbr/), a physically based shader with a focus on [VRChat](https://hello.vrchat.com/)
+<details open>
+<summary>Mixed Reality</summary>
 
+- [Hekky PBR](https://docs.hyblocker.dev/en/shaders/hekky-pbr/what-is-hekky-pbr/), a physically based shader with a focus on [VRChat](https://hello.vrchat.com/).
+
+- [VRTK](https://github.com/ExtendRealityLtd/VRTK), a virtual reality toolkit. :star:
+
+- [MRTK](https://github.com/microsoft/MixedRealityToolkit-Unity), a Microsoft-driven project for MR development. :star:
+
+</details>
+
+<details open>
+<summary>Unity</summary>
+
+- [QuickOutline](https://github.com/chrisnolet/QuickOutline), a third-party library for adding outlines of objects.
+
+- [Dungeon Template Library](https://github.com/AsPJT/DungeonTemplateLibrary), a third-party library for creating random dungeon-like scenes. :star:
+
+- [Awesome Unity](https://github.com/RyanNielson/awesome-unity), a collection of great implementations in Unity.
+
+- [Awesome Unity Open Source](https://github.com/baba-s/awesome-unity-open-source-on-github), a colleciton of open-source projects in Unity.
+
+- [Unity Library](https://github.com/UnityCommunity/UnityLibrary), a collection of nearly everything in Unity. :star:
+
+- [Deform](https://github.com/keenanwoodall/Deform), a third-party library for supporting arbitrary deforming operations of mesh in Unity.
+
+</details>
