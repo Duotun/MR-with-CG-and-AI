@@ -9,7 +9,7 @@ There is also a trending that we may pay attention to: between-subject user stud
 
 - [:fish\_cake:Top Conferences](#fish_caketop-conferences)
 - [:moon\_cake: Sketch in MR](#moon_cake-sketch-in-mr)
-- [:compass: Interactive Tasks in MR](#compass-interactive-tasks-in-mr)
+- [:compass: Interaction \& Display in MR](#compass-interaction--display-in-mr)
 - [:world\_map: Multi-Modal in MR](#world_map-multi-modal-in-mr)
 - [:church: Affective Computing in MR](#church-affective-computing-in-mr)
 - [:beer: Cool Demos \& Technology](#beer-cool-demos--technology)
@@ -37,6 +37,13 @@ An excellent collection of sketch applications could be found in this [github re
 
 - [Warpy: Contextual and Multi-view Indirect 3D Curve Sketching in Augmented Reality](http://rawanmg.com/research/warpy.html), Alghofaili et el., IEEE VR 2023 :star:
 
+- [Mobi3DSketch: 3D Sketching in Mobile AR](https://dl.acm.org/doi/fullHtml/10.1145/3290605.3300406), Kwan et al., CHI 2019
+  
+- [VRSketchIn: Exploring the Design Space of Pen and Tablet Interaction for 3D Sketching in Virtual Reality](https://dl.acm.org/doi/abs/10.1145/3313831.3376628), Drey et al., CHI 2020
+
+- [SymbiosisSketch: Combining 2D & 3D Sketching for Designing Detailed 3D Objects in Situ](https://dl.acm.org/doi/10.1145/3173574.3173759), Arora et al., CHI 2018
+
+- [RealityCheck: Blending Virtual Environments with Situated Physical Reality](https://dl.acm.org/doi/fullHtml/10.1145/3290605.3300577), Hartmann et al., CHI 2019
 
 ---
 # :compass: Interaction & Display in MR
