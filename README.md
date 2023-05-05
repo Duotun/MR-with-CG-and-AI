@@ -7,7 +7,7 @@ As our focus is to research into human-centric MR, there is one definitive guide
 
 There is also a trending that we may pay attention to: between-subject user study becomes more preferred than in-subject user study, especially talking with design principles, system effectiveness, and group behaviors.  
 
-- [:fish\_cake:Top Conferences](#fish_caketop-conferences)
+- [:fish\_cake: Top Conferences](#fish_cake-top-conferences)
 - [:moon\_cake: Sketch in MR](#moon_cake-sketch-in-mr)
 - [:compass: Interaction \& Display in MR](#compass-interaction--display-in-mr)
 - [:world\_map: Multi-Modal in MR](#world_map-multi-modal-in-mr)
@@ -16,7 +16,7 @@ There is also a trending that we may pay attention to: between-subject user stud
 
 
 ---
-# :fish_cake:Top Conferences
+# :fish_cake: Top Conferences
 
 - [IEEE VR](https://ieeevr.org/2023/) :star:
 - [CHI](https://chi2023.acm.org/)
@@ -43,8 +43,6 @@ An excellent collection of sketch applications could be found in this [github re
 
 - [SymbiosisSketch: Combining 2D & 3D Sketching for Designing Detailed 3D Objects in Situ](https://dl.acm.org/doi/10.1145/3173574.3173759), Arora et al., CHI 2018
 
-- [RealityCheck: Blending Virtual Environments with Situated Physical Reality](https://dl.acm.org/doi/fullHtml/10.1145/3290605.3300577), Hartmann et al., CHI 2019
-
 ---
 # :compass: Interaction & Display in MR
 To provide immersive feelings and interaction conveniences in MR, lots of research focus on interactive design tasks including single-view work pipelines and remote collaborations with MR technology.
@@ -62,6 +60,8 @@ To improve immersive feelings in MR settings, we aim to focus on providing and t
 - [Annexing Reality: Enabling Opportunistic Use of Everyday Objects as Tangible Proxies in Augmented Reality](https://dl.acm.org/doi/10.1145/2858036.2858134), Hettiarachchi et al., CHI 2016
 
 - [DreamWalker: Substituting Real-World Walking Experiences with a Virtual Reality](https://www.christianholz.net/2019-uist19-yang_holz_ofek_wilson-DreamWalker-Substituting_Real-World_Walking_Experiences_with_a_Virtual_Reality.pdf), Yang et al., UIST 2019
+
+- [RealityCheck: Blending Virtual Environments with Situated Physical Reality](https://dl.acm.org/doi/fullHtml/10.1145/3290605.3300577), Hartmann et al., CHI 2019
 
 ---
 # :church: Affective Computing in MR
