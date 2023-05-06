@@ -65,7 +65,7 @@ To improve immersive feelings in MR settings, we aim to focus on providing and t
 
 ---
 # :church: Affective Computing in MR
-In this part, we would like to explore excellent research in performing user study on how MR technolocy will help to build a better system to understand human beings' affections, perception and phychological activities in various context. Moreover, with MR technology's advancements, reseachers are working on developing innovative systems to provide more inspirations, more engagements, more accessibility to people in need.
+In this part, we would like to explore excellent research in performing user study on how MR technology will help to build a better system to understand human beings' affections, perception and psychological activities in various context. Moreover, with MR technology's advancements, researchers are working on developing innovative systems to provide more inspirations, more engagements, more accessibility to people in need.
 
 - [The Exploration and Evaluation of Generating Affective 360∘ Panoramic VR Environments Through Neural Style Transfer](https://arxiv.org/abs/2303.13535), Li et Al., IEEE VR 2023 Poster
 
@@ -75,7 +75,7 @@ In this part, we would like to explore excellent research in performing user stu
 
 ---
 # :beer: Cool Demos & Technology
-we list multiple implementations, plugins, tools and libraries in MR technology for the purporse of rapid learning and practice.
+we list multiple implementations, plugins, tools and libraries in MR technology for the purpose of rapid learning and practice.
 
 <details open>
 <summary>Mixed Reality</summary>
@@ -99,7 +99,7 @@ we list multiple implementations, plugins, tools and libraries in MR technology 
 
 - [Awesome Unity](https://github.com/RyanNielson/awesome-unity), a collection of great implementations in Unity.
 
-- [Awesome Unity Open Source](https://github.com/baba-s/awesome-unity-open-source-on-github), a colleciton of open-source projects in Unity.
+- [Awesome Unity Open Source](https://github.com/baba-s/awesome-unity-open-source-on-github), a collection of open-source projects in Unity.
 
 - [Unity Library](https://github.com/UnityCommunity/UnityLibrary), a collection of nearly everything in Unity. :star:
 
