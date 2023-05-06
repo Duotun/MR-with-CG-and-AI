@@ -85,6 +85,8 @@ we list multiple implementations, plugins, tools and libraries in MR technology 
 - [VRTK](https://github.com/ExtendRealityLtd/VRTK), a virtual reality toolkit. :star:
 
 - [MRTK](https://github.com/microsoft/MixedRealityToolkit-Unity), a Microsoft-driven project for MR development. :star:
+  
+- [VseeFace](https://www.vseeface.icu/#tutorials), a face-tracking based animator.
 
 </details>
 
