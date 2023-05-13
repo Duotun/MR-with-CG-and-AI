@@ -49,6 +49,8 @@ To provide immersive feelings and interaction conveniences in MR, lots of resear
 
 - [Toward Intuitive Acquisition of Fully Occluded VR Objects Through Direct Grab From a Disocclusion Mini-map](https://www.eecs.ucf.edu/~jjl/pubs/VR2023-mykola.pdf), Maslych et al., IEEE VR 2023
 
+- [vMirror: Enhancing the Interaction with Occluded or Distant Objects in VR with Virtual Mirrors](https://www.mingmingfan.com/papers/CHI21_vMirror_VR.pdf), Li et al., CHI 2021 :star:
+
 ---
 # :world_map: Multi-Modal in MR
 To improve immersive feelings in MR settings, we aim to focus on providing and testing the effect of multi-modal experiences such as physically-based sound generations, realistic haptic feedback, sense of pain, and even olfaction.
