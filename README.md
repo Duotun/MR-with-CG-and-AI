@@ -113,5 +113,6 @@ we list multiple implementations, plugins, tools and libraries in MR technology 
 <summary>UE 5</summary>
 
 - [Basic Tutorials](https://youtu.be/k-zMkzmduqI), an overview tutorial for unreal engine 5
+- [Metahuman Tutorials](https://youtu.be/7lAWhk_aVvc), a tool of producing high quality digital humans 
 
 </details>
