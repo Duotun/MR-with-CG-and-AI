@@ -25,7 +25,7 @@ There is also a trending that we may pay attention to: between-subject user stud
 - [IUI](https://iui.acm.org/2023/) :star:, Mid October Each Year
 - [SIGGRAPH](https://s2023.siggraph.org/), Early January Each Year
 - [SIGGRAPH ASIA](https://asia.siggraph.org/2023/), Mid May Each Year
-- [EuroGraphics](https://eg2023.saarland-informatics-campus.de/), Laye September Each Year
+- [EuroGraphics](https://eg2023.saarland-informatics-campus.de/), Late September Each Year
 - [ASEETS](https://assets23.sigaccess.org/), Mid May Each Year
 - [ACM ISS](https://iss2023.acm.org/), Early July Each Year
 - [IEEE VIS](https://ieeevis.org/year/2023/welcome), Late March Each Year
